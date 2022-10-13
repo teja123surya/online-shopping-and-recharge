@@ -1,0 +1,5 @@
+India moved into the digital world after banned of 500 and 1000 Rs/- notes.
+People in India are using various apps and applications to pay their bills online.
+so, we created a web application for online shopping and recharge.
+With this application, users can pay their bills online.
+shop online and recharge their mobiles online.      
